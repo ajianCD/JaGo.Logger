@@ -120,8 +120,6 @@ namespace chdu.jago.logger.Implements
             }
             return this;
         }
-
-
         #endregion
     }
 }

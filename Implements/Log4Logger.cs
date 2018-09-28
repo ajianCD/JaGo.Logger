@@ -51,8 +51,7 @@ namespace chdu.jago.logger.Implements
         {
             logImpl.Info(message);
         }
-
-        #region Prviate Methods
+        #region log4net重新写日志方法
 
         public override void Logger_Error(Exception ex)
         {
